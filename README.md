@@ -43,9 +43,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Hugo.M">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a0bhjgwknvx2ns0ifru7sqp49)
-  </a>
+    [Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a0bhjgwknvx2ns0ifru7sqp49)
 </div>
 
 ###

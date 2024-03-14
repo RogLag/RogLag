@@ -35,15 +35,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://c.tenor.com/fB3nRBvub5EAAAAC/tenor.gif"  />
-
-###
-
-<div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=a0bhjgwknvx2ns0ifru7sqp49">
-</div>
-
-###

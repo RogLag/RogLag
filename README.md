@@ -1,21 +1,21 @@
-<h2 align="left">Salut 👋! Je m'appelle Hugo MERY (ou RogLag) et je suis étudiant à Polytech Tours</h2>
+<h2 align="left">Hi 👋! My name is Hugo MERY (or RogLag), and I am a student at Polytech Tours</h2>
 
 ###
 
-Je suis principalement un développeur web et je maîtrise les technologies suivantes :
+I am mainly a web developer and have expertise in the following technologies:
 - Svelte
 - React
 - PHP
 - JavaScript
 - TypeScript
 
-Je suis également développeur Python et C, et j'apprends à créer de l'IA avec PyTorch et TensorFlow.
+I am also a Python and C developer, and I am learning to create AI using PyTorch and TensorFlow.
 
-J'ai 20 ans et j'habite à Tours, en France.
+I am 20 years old and live in Tours, France.
 
-Voici mon bento : [https://bento.me/roglag](https://bento.me/roglag)
+Here is my bento: [https://bento.me/roglag](https://bento.me/roglag)
 
-Discord : roglag
+Discord: roglag
 
 ###
 
@@ -26,10 +26,10 @@ Discord : roglag
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/votre_profil" style="text-decoration: none;" target="_blank">
+  <a href="https://www.instagram.com/your_profile" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://twitter.com/votre_profil" style="text-decoration: none;" target="_blank">
+  <a href="https://twitter.com/your_profile" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>

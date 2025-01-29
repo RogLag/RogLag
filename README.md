@@ -11,7 +11,7 @@ Je suis principalement un développeur web et je maîtrise les technologies suiv
 
 Je suis également développeur Python et C, et j'apprends à créer de l'IA avec PyTorch et TensorFlow.
 
-J'ai 18 ans et j'habite à Tours, en France.
+J'ai 20 ans et j'habite à Tours, en France.
 
 Voici mon bento : [https://bento.me/roglag](https://bento.me/roglag)
 
